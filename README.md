@@ -4,3 +4,9 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/kub1komid/scripts/refs/
 ```
 ##
 
+##
+INSTALL CASAOS
+```
+curl -fsSL https://get.casaos.io | sudo bash
+```
+##
